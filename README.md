@@ -90,16 +90,16 @@ Or on Ubuntu:
 
 ## Screenshots
 input :"50 तमिलनाडु के सर्वश्रेष्ठ पर्यटन स्थल"
-![App Screenshot](https://github.com/aashiqlove/code/blob/main/Screenshot%20from%202024-09-10%2015-37-03.png?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-HinTam/blob/main/OutputScreenshots/Screenshot%20from%202024-09-10%2015-37-03.png?raw=true)
 
 
 input :"तमिलनाडु राज्य में कई जगहें हैं। हालाँकि, तमिलनाडु में कुछ बेहतरीन पर्यटन स्थलों की तलाश करते समय, तमिलनाडु में घूमने के लिए सबसे अच्छी जगहों की सूची दी गई है। 
 "
-![App Screenshot ](https://github.com/aashiqlove/code/blob/main/Screenshot%20from%202024-09-10%2015-38-40.png?raw=true)
+![App Screenshot ](https://github.com/dldiscomt/DL-DiscoMT-HinTam/blob/main/OutputScreenshots/Screenshot%20from%202024-09-10%2015-38-40.png?raw=true)
 
 
 input :"इस सूची का उपयोग कर सकते हैं और अपनी अगली यात्रा के लिए जगहों को चुन सकते हैं।"
-![App Screenshot](https://github.com/aashiqlove/code/blob/main/Screenshot%20from%202024-09-10%2016-08-46.png?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-HinTam/blob/main/OutputScreenshots/Screenshot%20from%202024-09-10%2016-08-46.png?raw=true)
 
 
 ## Demo
