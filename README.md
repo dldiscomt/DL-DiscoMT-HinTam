@@ -2,14 +2,10 @@
 # DL-DiscoMT - Hindi to Tamil MT 
 
  This project provides a translation model that converts Hindi text into Tamil. It is built to facilitate smooth and accurate translation between these two languages. The model has been optimized using CTranslate2, which allows it to run efficiently and provides a compact model file suitable for deployment in various environments. This project is ideal for developers and organizations needing language translation support for Hindi and Tamil in their applications.
-
-
-
    
 ## Download - Model
 
 Download the model from the provided drive link: 
-
 
    [https://drive.google.com/drive/folders/1D2ZW5ZjJG3QSdEdA9d8IzQX85Otlg5d-?usp=drive_link](https://drive.google.com/drive/folders/1D2ZW5ZjJG3QSdEdA9d8IzQX85Otlg5d-?usp=drive_link)
 
@@ -26,7 +22,6 @@ gdown --folder https://drive.google.com/drive/folders/1D2ZW5ZjJG3QSdEdA9d8IzQX85
 ## Deployment - Docker  
 
 * To create a Docker image, use the following command. Replace <Image Name> with your desired image name, and <replace/the/path/Dockerfile> with the actual path to the Dockerfile you downloaded from the drive.
-
 
 
 ```bash
@@ -108,3 +103,5 @@ You can see the demo and working of the model in
 [Machine Translation](https://searchko.co.in/transaukbc/)
 
 
+## License
+CC BY 4.0 
